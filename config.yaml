@@ -246,39 +246,39 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "DUT in Applied Computer Science"
         school:
-          name: "University of California, Berkeley"
+          name: "University Mohammed VI Polytechnic, Benguerir"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2024 - 2026"
+        GPA: "5.0 out of 5.0"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+        # school:
+        #   name: "Massachusetts Institute of Technology"
+        #   url: "https://example.org"
+        # date: "2009 - 2013"
+        # GPA: "3.9 out of 5.0"
+        # content: |-
+        #   I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+        #   - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+        #   - Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+        #   Extracurricular Activities
+        #     - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        #     - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
+          name: "Lycée Qualifiant Abdelkhalek Torres."
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+        GPA: "5.0 out of 5.0"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -288,22 +288,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
+      - title: Won the 2nd prize in a local competition about the art of Debating
         content: I solved all problems with optimal solution.
         url: https://example.com
         image: /images/achievement.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievement.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievement.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      # - title: Facebook Hackathon Winner
+      #   content: Developed a product using Artificial Intelligence.
+      #   image: /images/achievement.jpg
+      # - title: Hugo Profile
+      #   content: Developed a theme and getting 1K+ downloads per month.
+      #   url: "https://github.com/gurusabarish/hugo-profile"
+      #   image: /images/achievement.jpg
+      # - title: Microsoft Imagine Runner
+      #   content: We are developed a product which can help others.
+      # - title: Google Summer of Code
+      #   content: Contributed to a open source project.
+      #   url: https://example.com
 
   # projects
   projects:
@@ -311,7 +311,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+        content: A Pharmacy Inventory Management System
         image: /images/projects/profile.png
         featured:
           name: Demo
